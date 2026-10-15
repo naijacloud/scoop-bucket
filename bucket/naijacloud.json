@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Deploy and manage NaijaCloud hosting from the terminal, and over MCP",
   "homepage": "https://naijacloud.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/naijacloud/nc-cli/releases/download/v1.5.0/naijacloud_1.5.0_windows_amd64.zip",
-      "hash": "a3b25dab463983846be712549f6f775ad4f09b2607d6be0a900672c8b56896f9"
+      "url": "https://github.com/naijacloud/nc-cli/releases/download/v1.5.1/naijacloud_1.5.1_windows_amd64.zip",
+      "hash": "c9873b14cb505ba1bb3f1a4919cc0f6aa40bdd4189def214ae3fcf5df281e914"
     }
   },
   "bin": [
